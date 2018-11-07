@@ -1,0 +1,1 @@
+基于 Python numpy 实现神经网络，采用 minist 数据集进行训练。
