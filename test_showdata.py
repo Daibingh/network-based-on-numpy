@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import mnist_loader
-import cv2
+# import cv2
 import numpy as np
 import random
 import matplotlib.pyplot as plt
